@@ -1,5 +1,5 @@
 # playwright-demo
-Downloads PDF file from the web
+Navigates pages using playwright and downloads PDF file using requests library 
 
 ```python
 python3 -m pip install playwright
